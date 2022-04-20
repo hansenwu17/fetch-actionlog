@@ -1,0 +1,11 @@
+mongodb:
+  eventory:
+    address: m17prod-eventory-shard-00-01.8rrni.gcp.mongodb.net
+    password: 
+    port: 27016
+    username: 
+  user:
+    address: m17prod-user-shard-00-01.8rrni.mongodb.net
+    password: 
+    port: 27016
+    username: 

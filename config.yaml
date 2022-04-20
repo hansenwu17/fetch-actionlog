@@ -1,0 +1,11 @@
+mongodb:
+  eventory:
+    address: new-stag-eventory-shard-00-01.sjn9y.mongodb.net
+    password: 
+    port: 27016
+    username: 
+  user:
+    address: new-stag-user-shard-00-01.sjn9y.mongodb.net
+    password: 
+    port: 27016
+    username: 
